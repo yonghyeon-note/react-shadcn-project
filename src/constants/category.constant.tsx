@@ -1,13 +1,4 @@
-import {
-  ChartNoAxesCombined,
-  CodeXml,
-  DraftingCompass,
-  Footprints,
-  Goal,
-  Lightbulb,
-  List,
-  Rocket,
-} from "lucide-react";
+import { ChartNoAxesCombined, CodeXml, DraftingCompass, Footprints, Goal, Lightbulb, List, Rocket } from "lucide-react";
 
 export const CLASS_CATEGORY = [
   { id: 1, label: "전체", category: "", icon: <List /> },

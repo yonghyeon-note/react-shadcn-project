@@ -15,9 +15,7 @@ function AppHeader() {
         </div>
 
         {/* 로그인 UI */}
-        <div className="text-muted-foreground font-semibold transition-all duration-500 hover:text-white">
-          로그인
-        </div>
+        <div className="text-muted-foreground font-semibold transition-all duration-500 hover:text-white">로그인</div>
       </div>
     </header>
   );
